@@ -1,7 +1,6 @@
 # Medium Clone
 
-A clone of the Medium homepage using only HTML & CSS. This site can be viewed on devices of all sizes as it is fully responsive.
-
+A clone of the Medium homepage using only HTML & CSS. This site can be viewed on devices of all sizes as it is fully responsive. The real site can be viewed at [https://medium.com/](https://medium.com/). This clone can be viewed at [https://alyssadicarlo.github.io/medium_clone](https://alyssadicarlo.github.io/medium_clone).
 ## Screenshots
 
 ### Desktop
