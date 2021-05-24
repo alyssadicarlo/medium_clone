@@ -194,6 +194,10 @@ main {
         display: block;
     }
 
+    .wrapper {
+        max-width: 1024px;
+    }
+
     .mobile {
         display: none;
     }
